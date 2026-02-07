@@ -31,7 +31,7 @@ Real-time AI conversations with markdown formatting
 - Built with `streamText()` and `useChat`
 
 <!-- Screenshot: Streaming Chat -->
-![Streaming Chat](./screenshots/chat.jpeg)
+![Streaming Chat](./screenshots/Chat.jpeg)
 
 ---
 
